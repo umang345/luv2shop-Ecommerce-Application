@@ -1,27 +1,12 @@
-# AngularEcommerce
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# luv2shop Ecommerce Application
+## This is a full stack E-commerce application. The frontend of the application is developed using Angular 8 and the restful service is developed using SpringBoot. 
+<img src="https://github.com/umang345/luv2shop-Ecommerce-Application/blob/master/snaps/snap1.JPG" width="700" height="420">
+<img src="https://github.com/umang345/luv2shop-Ecommerce-Application/blob/master/snaps/Snap2.JPG" width="700" height="420">
+<img src="https://github.com/umang345/luv2shop-Ecommerce-Application/blob/master/snaps/Snap3.JPG" width="700" height="420">
+<img src="https://github.com/umang345/luv2shop-Ecommerce-Application/blob/master/snaps/Snap4.JPG" width="700" height="420">
+<img src="https://github.com/umang345/luv2shop-Ecommerce-Application/blob/master/snaps/Snap5.JPG" width="700" height="420">
+<img src="https://github.com/umang345/luv2shop-Ecommerce-Application/blob/master/snaps/Snap6.JPG" width="400" height="120">
+<img src="https://github.com/umang345/luv2shop-Ecommerce-Application/blob/master/snaps/Snap7.JPG" width="700" height="420">
+<img src="https://github.com/umang345/luv2shop-Ecommerce-Application/blob/master/snaps/Snap8.JPG" width="700" height="420">
+<img src="https://github.com/umang345/luv2shop-Ecommerce-Application/blob/master/snaps/Snap9.JPG" width="700" height="420">
+<img src="https://github.com/umang345/luv2shop-Ecommerce-Application/blob/master/snaps/Snap10.JPG" width="700" height="420">
